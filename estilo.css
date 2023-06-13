@@ -1,0 +1,28 @@
+* {
+box-sizing: border-box;
+margin: 0%;
+padding: 0%;
+}
+
+.tittle {
+    text-align: center;
+}
+
+.footer {
+    background-color: rgba(23, 53, 110, 0.9);
+    height: 80px;
+}
+.footer .container footer {
+    width: 90vw;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer .container-footer a {
+    text-decoration: none;
+    width: 100px;
+    text-align: center;
+
+}
